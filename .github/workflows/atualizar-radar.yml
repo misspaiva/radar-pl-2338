@@ -1,0 +1,50 @@
+# -----------------------------------------------------------------------
+# atualizar-radar.yml
+# -----------------------------------------------------------------------
+# Roda o radar toda semana (e sob demanda), busca o status mais recente
+# do PL 2338/2023 na API da Câmara, e commita STATUS.md e o histórico de
+# volta no repositório se algo mudou.
+#
+# O runner do GitHub Actions tem acesso normal à internet, então essa
+# chamada funciona aqui mesmo que não funcione em sandboxes restritos.
+# -----------------------------------------------------------------------
+
+name: Atualizar Radar PL 2338
+
+on:
+  schedule:
+    - cron: "0 12 * * 1" # toda segunda-feira às 12h UTC (~9h em Brasília)
+  workflow_dispatch: {} # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Rodar os testes (lógica pura, sem rede)
+        run: npm test
+
+      - name: Buscar status atualizado do PL 2338
+        run: npm run atualizar
+
+      - name: Commitar alterações, se houver
+        run: |
+          git config user.name "radar-pl2338-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add STATUS.md data/historico-tramitacao.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para commitar."
+          else
+            git commit -m "chore: atualizar status do PL 2338 [skip ci]"
+            git push
+          fi

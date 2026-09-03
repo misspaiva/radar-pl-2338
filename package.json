@@ -1,0 +1,26 @@
+{
+  "name": "radar-pl-2338",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Radar automático de tramitação do PL 2338/2023 (Marco Legal da IA no Brasil), usando a API pública de Dados Abertos da Câmara dos Deputados.",
+  "main": "src/gerarStatus.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "atualizar": "node src/gerarStatus.js",
+    "test": "node tests/01-detectarMudancas.test.js && node tests/02-montarStatusMd.test.js"
+  },
+  "keywords": [
+    "pl2338",
+    "marco-legal-ia",
+    "camara-dos-deputados",
+    "dados-abertos",
+    "governanca-ia",
+    "lgpd"
+  ],
+  "author": "misspaiva",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
