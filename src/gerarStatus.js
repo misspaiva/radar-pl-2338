@@ -63,5 +63,8 @@ async function main() {
 
 main().catch((erro) => {
   console.error("Erro ao gerar status do radar:", erro.message);
+  if (erro.cause) {
+    console.error("Causa detalhada:", erro.cause);
+  }
   process.exit(1);
 });

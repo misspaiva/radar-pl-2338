@@ -18,7 +18,12 @@ const { API_BASE } = require("./config");
  */
 async function buscarProposicao(idProposicao) {
   const url = `${API_BASE}/proposicoes/${idProposicao}`;
-  const resposta = await fetch(url, { headers: { Accept: "application/json" } });
+  const resposta = await fetch(url, {
+    headers: {
+      Accept: "application/json",
+      "User-Agent": "radar-pl-2338 (projeto aberto de acompanhamento legislativo)",
+    },
+  });
 
   if (!resposta.ok) {
     throw new Error(
@@ -38,7 +43,12 @@ async function buscarTramitacoes(idProposicao) {
   const url =
     `${API_BASE}/proposicoes/${idProposicao}/tramitacoes` +
     `?ordem=ASC&ordenarPor=dataHora&itens=100`;
-  const resposta = await fetch(url, { headers: { Accept: "application/json" } });
+  const resposta = await fetch(url, {
+    headers: {
+      Accept: "application/json",
+      "User-Agent": "radar-pl-2338 (projeto aberto de acompanhamento legislativo)",
+    },
+  });
 
   if (!resposta.ok) {
     throw new Error(
