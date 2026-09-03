@@ -36,13 +36,13 @@ async function buscarProposicao(idProposicao) {
 }
 
 /**
- * Busca o histórico completo de tramitações de uma proposição, em ordem
- * cronológica crescente (mais antiga primeiro).
+ * Busca o histórico completo de tramitações de uma proposição. A API não
+ * garante ordem cronológica nesse endpoint específico (e rejeita alguns
+ * parâmetros de ordenação que funcionam em outras rotas), então ordenamos
+ * por `dataHora` aqui mesmo, no cliente.
  */
 async function buscarTramitacoes(idProposicao) {
-  const url =
-    `${API_BASE}/proposicoes/${idProposicao}/tramitacoes` +
-    `?ordem=ASC&ordenarPor=dataHora&itens=100`;
+  const url = `${API_BASE}/proposicoes/${idProposicao}/tramitacoes`;
   const resposta = await fetch(url, {
     headers: {
       Accept: "application/json",
@@ -57,7 +57,9 @@ async function buscarTramitacoes(idProposicao) {
   }
 
   const corpo = await resposta.json();
-  return corpo.dados;
+  const tramitacoes = corpo.dados || [];
+
+  return [...tramitacoes].sort((a, b) => (a.dataHora > b.dataHora ? 1 : -1));
 }
 
 module.exports = { buscarProposicao, buscarTramitacoes };
