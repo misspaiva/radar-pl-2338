@@ -5536,6 +5536,22 @@
     "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
   },
   {
+    "dataHora": "2025-10-06T14:13",
+    "sequencia": 364,
+    "siglaOrgao": "CE",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "regime": "Prioridade (Art. 151, II, RICD)",
+    "descricaoTramitacao": "Apresentação de Requerimento",
+    "codTipoTramitacao": "194",
+    "descricaoSituacao": "Aguardando Parecer",
+    "codSituacao": 915,
+    "despacho": "Apresentação do REQ n. 192/2025 (Requerimento de Audiência Pública), pela Deputada Soraya Santos (PL/RJ), que \"Requer a realização de Audiência Pública para debater a instrução do uso de tecnologias de inteligência artificial na educação básica brasileira\".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3013543",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  {
     "dataHora": "2025-10-06T14:21",
     "sequencia": 363,
     "siglaOrgao": "PL233823",
@@ -5552,8 +5568,24 @@
     "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
   },
   {
+    "dataHora": "2025-10-16T16:34",
+    "sequencia": 365,
+    "siglaOrgao": "CE",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "regime": "Prioridade (Art. 151, II, RICD)",
+    "descricaoTramitacao": "Apresentação de Requerimento",
+    "codTipoTramitacao": "194",
+    "descricaoSituacao": "Aguardando Parecer",
+    "codSituacao": 915,
+    "despacho": "Apresentação do REQ n. 200/2025 (Requerimento de Audiência Pública), pelo Deputado Átila Lira (PP/PI), que \"Requer a inclusão de representante da Federação Nacional das Escolas Particulares (FENEP) na Audiência Pública a ser realizada em decorrência do REQ 192/2025 CE\".",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3024502",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  {
     "dataHora": "2025-10-21T12:02",
-    "sequencia": 364,
+    "sequencia": 366,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5569,7 +5601,7 @@
   },
   {
     "dataHora": "2025-10-21T21:36",
-    "sequencia": 365,
+    "sequencia": 367,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5585,7 +5617,7 @@
   },
   {
     "dataHora": "2025-10-21T21:52",
-    "sequencia": 366,
+    "sequencia": 368,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5601,7 +5633,7 @@
   },
   {
     "dataHora": "2025-10-23T11:00",
-    "sequencia": 369,
+    "sequencia": 371,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5617,7 +5649,7 @@
   },
   {
     "dataHora": "2025-10-23T11:00",
-    "sequencia": 368,
+    "sequencia": 370,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5633,7 +5665,7 @@
   },
   {
     "dataHora": "2025-10-23T11:00",
-    "sequencia": 367,
+    "sequencia": 369,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5649,7 +5681,7 @@
   },
   {
     "dataHora": "2025-12-11T18:05",
-    "sequencia": 378,
+    "sequencia": 380,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5665,7 +5697,7 @@
   },
   {
     "dataHora": "2026-02-11T15:20",
-    "sequencia": 380,
+    "sequencia": 382,
     "siglaOrgao": "SECAP(SGM)",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/100001",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5681,7 +5713,7 @@
   },
   {
     "dataHora": "2026-03-19T11:56",
-    "sequencia": 381,
+    "sequencia": 383,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5697,7 +5729,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 394,
+    "sequencia": 396,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5713,7 +5745,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 393,
+    "sequencia": 395,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5729,7 +5761,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 392,
+    "sequencia": 394,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5745,7 +5777,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 391,
+    "sequencia": 393,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5761,7 +5793,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 390,
+    "sequencia": 392,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5777,7 +5809,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 389,
+    "sequencia": 391,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5793,7 +5825,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 388,
+    "sequencia": 390,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5809,7 +5841,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 387,
+    "sequencia": 389,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5825,7 +5857,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 386,
+    "sequencia": 388,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5841,7 +5873,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 385,
+    "sequencia": 387,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5857,7 +5889,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 384,
+    "sequencia": 386,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5873,7 +5905,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 383,
+    "sequencia": 385,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5889,7 +5921,7 @@
   },
   {
     "dataHora": "2026-03-19T11:59",
-    "sequencia": 382,
+    "sequencia": 384,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5905,7 +5937,7 @@
   },
   {
     "dataHora": "2026-03-19T12:00",
-    "sequencia": 395,
+    "sequencia": 397,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5921,7 +5953,7 @@
   },
   {
     "dataHora": "2026-03-23T17:34",
-    "sequencia": 396,
+    "sequencia": 398,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5937,7 +5969,7 @@
   },
   {
     "dataHora": "2026-04-06T14:29",
-    "sequencia": 398,
+    "sequencia": 400,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5953,7 +5985,7 @@
   },
   {
     "dataHora": "2026-04-06T14:30",
-    "sequencia": 399,
+    "sequencia": 401,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5969,7 +6001,7 @@
   },
   {
     "dataHora": "2026-04-06T14:31",
-    "sequencia": 400,
+    "sequencia": 402,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -5985,7 +6017,7 @@
   },
   {
     "dataHora": "2026-04-07T10:34",
-    "sequencia": 401,
+    "sequencia": 403,
     "siglaOrgao": "PL233823",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539776",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6001,7 +6033,7 @@
   },
   {
     "dataHora": "2026-05-14T14:24",
-    "sequencia": 402,
+    "sequencia": 404,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6017,7 +6049,7 @@
   },
   {
     "dataHora": "2026-05-20T10:53",
-    "sequencia": 404,
+    "sequencia": 406,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6033,7 +6065,7 @@
   },
   {
     "dataHora": "2026-05-25T21:38",
-    "sequencia": 406,
+    "sequencia": 408,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6049,7 +6081,7 @@
   },
   {
     "dataHora": "2026-05-25T21:38",
-    "sequencia": 405,
+    "sequencia": 407,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6065,7 +6097,7 @@
   },
   {
     "dataHora": "2026-06-17T19:25",
-    "sequencia": 409,
+    "sequencia": 411,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6081,7 +6113,7 @@
   },
   {
     "dataHora": "2026-06-17T19:25",
-    "sequencia": 408,
+    "sequencia": 410,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6097,7 +6129,7 @@
   },
   {
     "dataHora": "2026-06-17T19:25",
-    "sequencia": 407,
+    "sequencia": 409,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6113,7 +6145,7 @@
   },
   {
     "dataHora": "2026-09-01T20:10",
-    "sequencia": 411,
+    "sequencia": 413,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
@@ -6129,7 +6161,7 @@
   },
   {
     "dataHora": "2026-09-02T15:06",
-    "sequencia": 412,
+    "sequencia": 414,
     "siglaOrgao": "MESA",
     "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
     "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
