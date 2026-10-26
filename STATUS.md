@@ -1,6 +1,6 @@
 # Radar PL 2338/2023 — Marco Legal da IA no Brasil
 
-> Gerado automaticamente em 2026-10-19T18:22:43.536Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
+> Gerado automaticamente em 2026-10-26T18:17:06.285Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
 
 ## Situação atual
 
