@@ -6174,5 +6174,53 @@
     "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154148",
     "ambito": "Regimental",
     "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  {
+    "dataHora": "2026-10-26T17:12",
+    "sequencia": 415,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "regime": "Prioridade (Art. 151, II, RICD)",
+    "descricaoTramitacao": "Notificação de Apensação",
+    "codTipoTramitacao": "504",
+    "descricaoSituacao": "Aguardando Parecer",
+    "codSituacao": 915,
+    "despacho": "Apensação da proposição PL 3615/2026 à proposição PL 6708/2025.",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3173854",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  {
+    "dataHora": "2026-10-27T18:13",
+    "sequencia": 416,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "regime": "Prioridade (Art. 151, II, RICD)",
+    "descricaoTramitacao": "Notificação de Apensação",
+    "codTipoTramitacao": "504",
+    "descricaoSituacao": "Aguardando Parecer",
+    "codSituacao": 915,
+    "despacho": "Apensação da proposição PL 3382/2026 à proposição PL 904/2026.",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3171225",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  {
+    "dataHora": "2026-10-27T18:14",
+    "sequencia": 417,
+    "siglaOrgao": "MESA",
+    "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+    "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/160527",
+    "regime": "Prioridade (Art. 151, II, RICD)",
+    "descricaoTramitacao": "Notificação de Apensação",
+    "codTipoTramitacao": "504",
+    "descricaoSituacao": "Aguardando Parecer",
+    "codSituacao": 915,
+    "despacho": "Apensação da proposição PL 3560/2026 à proposição PL 728/2026.",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3173183",
+    "ambito": "Regimental",
+    "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
   }
 ]

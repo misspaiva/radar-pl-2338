@@ -1,20 +1,25 @@
 # Radar PL 2338/2023 — Marco Legal da IA no Brasil
 
-> Gerado automaticamente em 2026-10-26T18:17:06.285Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
+> Gerado automaticamente em 2026-11-02T21:25:49.535Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
 
 ## Situação atual
 
 - **Situação:** Aguardando Parecer
 - **Órgão responsável:** MESA
-- **Última movimentação:** 2026-09-02T15:06
-- **Despacho:** Apensação da proposição PL 1542/2026 à proposição PL 904/2026.
+- **Última movimentação:** 2026-10-27T18:14
+- **Despacho:** Apensação da proposição PL 3560/2026 à proposição PL 728/2026.
 
-## Sem novidade
+## 🔔 Movimentações novas desde a última checagem
 
-Nenhuma movimentação nova desde a última checagem.
+- **2026-10-26T17:12** — Notificação de Apensação
+- **2026-10-27T18:13** — Notificação de Apensação
+- **2026-10-27T18:14** — Notificação de Apensação
 
 ## Últimas movimentações (até 10)
 
+- **2026-10-27T18:14** — Notificação de Apensação
+- **2026-10-27T18:13** — Notificação de Apensação
+- **2026-10-26T17:12** — Notificação de Apensação
 - **2026-09-02T15:06** — Notificação de Apensação
 - **2026-09-01T20:10** — Notificação de Apensação
 - **2026-06-17T19:25** — Notificação de Apensação
@@ -22,9 +27,6 @@ Nenhuma movimentação nova desde a última checagem.
 - **2026-06-17T19:25** — Notificação de Apensação
 - **2026-05-25T21:38** — Notificação de Apensação
 - **2026-05-25T21:38** — Notificação de Apensação
-- **2026-05-20T10:53** — Apresentação de Requerimento
-- **2026-05-14T14:24** — Notificação de Apensação
-- **2026-04-07T10:34** — Notificação de Apensação
 
 ---
 
