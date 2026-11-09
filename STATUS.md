@@ -1,6 +1,6 @@
 # Radar PL 2338/2023 — Marco Legal da IA no Brasil
 
-> Gerado automaticamente em 2026-11-02T21:25:49.535Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
+> Gerado automaticamente em 2026-11-09T21:57:22.978Z a partir da API de Dados Abertos da Câmara dos Deputados. Não é aconselhamento jurídico.
 
 ## Situação atual
 
@@ -9,11 +9,9 @@
 - **Última movimentação:** 2026-10-27T18:14
 - **Despacho:** Apensação da proposição PL 3560/2026 à proposição PL 728/2026.
 
-## 🔔 Movimentações novas desde a última checagem
+## Sem novidade
 
-- **2026-10-26T17:12** — Notificação de Apensação
-- **2026-10-27T18:13** — Notificação de Apensação
-- **2026-10-27T18:14** — Notificação de Apensação
+Nenhuma movimentação nova desde a última checagem.
 
 ## Últimas movimentações (até 10)
 
